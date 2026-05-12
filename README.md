@@ -8,7 +8,7 @@ Controls:
 • Press R to restart
 
 Depedencies:
-Pygame: pip install pygame
+Pygame: pip install pygame-ce
 
 
 
